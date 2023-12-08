@@ -1,5 +1,5 @@
-    var username = "jaspinder0029";
-    var Password = "Harry@29"
+    var username = "user123";
+    var Password = "User@123"
 
     function disp() {
         var enteredusername = document.getElementById("username").value;
